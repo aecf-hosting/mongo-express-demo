@@ -1,0 +1,17 @@
+
+  				===================================									                        
+																											                              
+					WELCOME TO CODENVY												                            
+																											                              
+				===================================									                			  
+																											                              
+	This is a Node mongo-express application.														         																										                              
+	Run the app (toolbar button)
+	Environment build up process will take a while. Be patient.                         
+                                                                                     
+	Once it's done, you will see application URL in the Runner panel.
+																										                            	  
+Wait for Mongo to boot - it takes a while. The app will be running on port 8081.
+
+You can then enjoy a nice UI to work with Mongo.
+
